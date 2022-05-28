@@ -1,4 +1,4 @@
-![Header](https://github.com/Bohdan-ybf/bohdan-ybf/commit/2d5b4e231c7087d6145a95ca801cfbadb08afe39)
+![Header](https://raw.githubusercontent.com/Bohdan-ybf/bohdan-ybf/2d5b4e231c7087d6145a95ca801cfbadb08afe39/assets/giphy.gif)
 
 ## My goals are active learning and development in frontend development.
 
