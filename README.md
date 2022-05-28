@@ -1,4 +1,4 @@
-![Header](https://github.com/Bohdan-ybf/bohdan-ybf/blob/master/assets/bgit.png)
+![Header](https://github.com/Bohdan-ybf/bohdan-ybf/commit/2d5b4e231c7087d6145a95ca801cfbadb08afe39)
 
 ## My goals are active learning and development in frontend development.
 
